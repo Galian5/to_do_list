@@ -9,7 +9,7 @@ end
 gem 'rails', '~> 5.0.2'
 
 # Environment
-gem 'pg'
+gem 'sqlite3'
 
 # # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails workshops_todo_list: test" uuid="918d26c0-9529-4829-b146-d9b95f264dfa">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>galian</user-name>
+    </data-source>
+    <data-source name="Rails workshops_todo_list: development" uuid="159a5ba5-f72f-4f4e-82ca-55e635c4c56f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>galian</user-name>
+    </data-source>
+    <data-source name="Rails workshops_todo_list: production" uuid="31f26cb5-453e-4889-9249-cbd8ecee346b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>galian</user-name>
+    </data-source>
+  </component>
+</project>

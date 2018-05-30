@@ -10,7 +10,7 @@ RSpec.describe TasksController, type: :controller do
   end
 
   describe 'POST tasks' do
-    context "for no task attributes given" do
+    context 'for no task attributes given' do
       it 'renders new template' do
         post :create, params: { task: { foo: 'bar' } }
         expect(response).to be_success
@@ -18,7 +18,7 @@ RSpec.describe TasksController, type: :controller do
       end
     end
 
-    context "for task attributes given" do
+    context 'for task attributes given' do
       it 'renders new template' do
         post :create, params: { task: { title: 'foo', description: 'bar' } }
         expect(response).to redirect_to tasks_url
